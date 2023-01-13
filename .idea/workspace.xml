@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="05b50335-8404-4b4b-bbee-95d555b5b8a8" name="Default Changelist" comment="" />
+    <list default="true" id="05b50335-8404-4b4b-bbee-95d555b5b8a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hw2_marvel/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2_marvel/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2_marvel/start.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +34,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -24,6 +49,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -34,27 +60,27 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Etodd\WebstormProjects\neto_hws\hw1" />
+      <recent name="C:\Users\Etodd\WebstormProjects\NetoJSD_HWs\hw1" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.hw2_2.js">
-    <configuration name="hw1_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../NetoJSD_HWs/hw1/hw1_1.js" working-dir="$PROJECT_DIR$/../NetoJSD_HWs/hw1">
+  <component name="RunManager" selected="Node.js.start.js">
+    <configuration name="hw1_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/hw1/hw1_1.js" working-dir="$PROJECT_DIR$/hw1">
       <method v="2" />
     </configuration>
-    <configuration name="hw2_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../NetoJSD_HWs/hw1/hw2_1.js" working-dir="$PROJECT_DIR$/../NetoJSD_HWs/hw1">
+    <configuration name="hw2_2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/hw1/hw2_2.js" working-dir="$PROJECT_DIR$/hw1">
       <method v="2" />
     </configuration>
-    <configuration name="hw2_2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../NetoJSD_HWs/hw1/hw2_2.js" working-dir="$PROJECT_DIR$/../NetoJSD_HWs/hw1">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/hw2_marvel/index.js" working-dir="$PROJECT_DIR$/hw2_marvel">
       <method v="2" />
     </configuration>
-    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../NetoJSD_HWs/hw1/index.js" working-dir="$PROJECT_DIR$/../NetoJSD_HWs/hw1">
+    <configuration name="start.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/hw2_marvel/start.js" working-dir="$PROJECT_DIR$/hw2_marvel">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.hw2_2.js" />
-        <item itemvalue="Node.js.hw2_1.js" />
+        <item itemvalue="Node.js.start.js" />
         <item itemvalue="Node.js.index.js" />
+        <item itemvalue="Node.js.hw2_2.js" />
         <item itemvalue="Node.js.hw1_1.js" />
       </list>
     </recent_temporary>
@@ -75,67 +101,64 @@
       <workItem from="1673051590960" duration="213000" />
       <workItem from="1673051816040" duration="1746000" />
       <workItem from="1673208394074" duration="79000" />
-      <workItem from="1673208485614" duration="1025000" />
-      <workItem from="1673209527304" duration="821000" />
-      <workItem from="1673210807146" duration="4801000" />
+      <workItem from="1673217205561" duration="209000" />
+      <workItem from="1673217425041" duration="83000" />
+      <workItem from="1673217518450" duration="1209000" />
+      <workItem from="1673610266918" duration="1452000" />
+      <workItem from="1673611742822" duration="145000" />
+      <workItem from="1673611901596" duration="200000" />
+      <workItem from="1673612116139" duration="123000" />
+      <workItem from="1673612251852" duration="1928000" />
     </task>
-    <task id="LOCAL-00001" summary="Added hw2_1 about conditions, arrays and loops">
-      <created>1673215501320</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1673215501320</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Added hw2_2 about inludes()">
-      <created>1673216345935</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1673216345935</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added hw2_1 about conditions, arrays and loops" />
-    <MESSAGE value="Added hw2_2 about inludes()" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added hw2_2 about inludes()" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="645" y="314" key="Github.ShareDialog" timestamp="1673210878288">
+    <state x="655" y="249" key="#Notifications" timestamp="1673610343069">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="645" y="314" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1673210878288" />
-    <state x="564" y="35" key="Github.UntrackedFilesDialog" timestamp="1673210916961">
+    <state x="655" y="249" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1673610343069" />
+    <state x="638" y="314" key="Github.ShareDialog" timestamp="1673217293661">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="564" y="35" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1673210916961" />
-    <state width="919" height="203" key="GridCell.Tab.0.bottom" timestamp="1673216307215">
+    <state x="638" y="314" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1673217293661" />
+    <state width="1515" height="203" key="GridCell.Tab.0.bottom" timestamp="1673613246763">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="919" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1673216307215" />
-    <state width="919" height="203" key="GridCell.Tab.0.center" timestamp="1673216307215">
+    <state width="1515" height="203" key="GridCell.Tab.0.bottom/0.0.1536.783@0.0.1536.783" timestamp="1673301822720" />
+    <state width="1515" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1673613246763" />
+    <state width="1515" height="203" key="GridCell.Tab.0.center" timestamp="1673613246763">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="919" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1673216307215" />
-    <state width="919" height="203" key="GridCell.Tab.0.left" timestamp="1673216307214">
+    <state width="1515" height="203" key="GridCell.Tab.0.center/0.0.1536.783@0.0.1536.783" timestamp="1673301822720" />
+    <state width="1515" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1673613246763" />
+    <state width="1515" height="203" key="GridCell.Tab.0.left" timestamp="1673613246762">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="919" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1673216307214" />
-    <state width="919" height="203" key="GridCell.Tab.0.right" timestamp="1673216307215">
+    <state width="1515" height="203" key="GridCell.Tab.0.left/0.0.1536.783@0.0.1536.783" timestamp="1673301822720" />
+    <state width="1515" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1673613246762" />
+    <state width="1515" height="203" key="GridCell.Tab.0.right" timestamp="1673613246763">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="919" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1673216307215" />
-    <state x="403" y="4" key="SettingsEditor" timestamp="1673211750602">
+    <state width="1515" height="203" key="GridCell.Tab.0.right/0.0.1536.783@0.0.1536.783" timestamp="1673301822720" />
+    <state width="1515" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1673613246763" />
+    <state x="342" y="14" key="SettingsEditor" timestamp="1673613122243">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="403" y="4" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1673211750602" />
-    <state x="601" y="234" key="Vcs.Push.Dialog.v2" timestamp="1673215504503">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="601" y="234" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1673215504503" />
+    <state x="342" y="14" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1673613122243" />
   </component>
 </project>

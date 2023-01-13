@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../NetoJSD_HWs/.idea/NetoJSD_HWs.iml" filepath="$PROJECT_DIR$/../NetoJSD_HWs/.idea/NetoJSD_HWs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NetoJSD_HWs.iml" filepath="$PROJECT_DIR$/.idea/NetoJSD_HWs.iml" />
     </modules>
   </component>
 </project>
